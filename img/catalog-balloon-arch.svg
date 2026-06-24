@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title>Balloon arch sample</title><desc>Pastel balloon arch decoration illustration</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff1f4"/><stop offset="1" stop-color="#f7e9ff"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#8c3868" flood-opacity=".22"/></filter>
+  <radialGradient id="pink"><stop stop-color="#ffd5ec"/><stop offset=".7" stop-color="#f76aac"/><stop offset="1" stop-color="#df4e91"/></radialGradient>
+  <radialGradient id="yellow"><stop stop-color="#fff7ac"/><stop offset=".7" stop-color="#ffd441"/><stop offset="1" stop-color="#f4ad17"/></radialGradient>
+  <radialGradient id="aqua"><stop stop-color="#d9fffb"/><stop offset=".7" stop-color="#79d8d5"/><stop offset="1" stop-color="#3aaeb6"/></radialGradient>
+</defs>
+<rect width="900" height="650" rx="48" fill="url(#bg)"/>
+<path d="M166 544C155 266 331 118 512 118c141 0 246 105 248 267" fill="none" stroke="#f35da2" stroke-width="61" stroke-linecap="round" filter="url(#shadow)"/>
+<path d="M166 544C155 266 331 118 512 118c141 0 246 105 248 267" fill="none" stroke="#ffbcda" stroke-width="31" stroke-linecap="round"/>
+<g filter="url(#shadow)">
+  <circle cx="170" cy="510" r="55" fill="url(#aqua)"/><circle cx="225" cy="445" r="58" fill="url(#pink)"/><circle cx="274" cy="374" r="56" fill="url(#yellow)"/>
+  <circle cx="323" cy="303" r="58" fill="url(#aqua)"/><circle cx="392" cy="239" r="56" fill="url(#pink)"/><circle cx="473" cy="204" r="60" fill="url(#yellow)"/>
+  <circle cx="557" cy="214" r="58" fill="url(#pink)"/><circle cx="631" cy="257" r="58" fill="url(#aqua)"/><circle cx="689" cy="327" r="56" fill="url(#yellow)"/>
+  <circle cx="724" cy="406" r="58" fill="url(#pink)"/><circle cx="749" cy="496" r="57" fill="url(#aqua)"/>
+</g>
+<rect x="214" y="502" width="480" height="88" rx="25" fill="#fff" filter="url(#shadow)"/>
+<text x="450" y="556" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#a53c73">DECOMANIA</text>
+<circle cx="118" cy="130" r="12" fill="#f6bf25"/><circle cx="755" cy="135" r="9" fill="#e95ac8"/><path d="M770 175l7 16 16 7-16 7-7 16-7-16-16-7 16-7z" fill="#3fc0c8"/>
+</svg>

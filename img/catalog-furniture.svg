@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title>Event furniture sample</title><desc>Pastel furniture rental illustration</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f1fffb"/><stop offset="1" stop-color="#fff5e6"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="15" flood-color="#3f766f" flood-opacity=".2"/></filter>
+</defs>
+<rect width="900" height="650" rx="48" fill="url(#bg)"/>
+<ellipse cx="454" cy="570" rx="345" ry="38" fill="#a8d2c7" opacity=".35"/>
+<g filter="url(#shadow)">
+ <rect x="180" y="302" width="540" height="150" rx="33" fill="#f69ac5"/>
+ <rect x="205" y="263" width="490" height="115" rx="30" fill="#ffc8df"/>
+ <rect x="205" y="452" width="30" height="112" rx="12" fill="#a86e55"/>
+ <rect x="665" y="452" width="30" height="112" rx="12" fill="#a86e55"/>
+ <rect x="430" y="249" width="40" height="315" rx="17" fill="#bf8466"/>
+ <ellipse cx="450" cy="231" rx="135" ry="36" fill="#ffe6a4"/>
+ <ellipse cx="450" cy="222" rx="113" ry="28" fill="#fff9dc"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="241" y="231" width="60" height="98" rx="28" fill="#6bc9c3"/><rect x="598" y="231" width="60" height="98" rx="28" fill="#6bc9c3"/>
+  <rect x="252" y="323" width="12" height="62" rx="6" fill="#8c5d49"/><rect x="278" y="323" width="12" height="62" rx="6" fill="#8c5d49"/>
+  <rect x="609" y="323" width="12" height="62" rx="6" fill="#8c5d49"/><rect x="635" y="323" width="12" height="62" rx="6" fill="#8c5d49"/>
+</g>
+<circle cx="150" cy="155" r="18" fill="#ffc72e"/><circle cx="754" cy="171" r="15" fill="#e859ba"/><path d="M733 480l7 16 16 7-16 7-7 16-7-16-16-7 16-7z" fill="#43bdb8"/>
+</svg>

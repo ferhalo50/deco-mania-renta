@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title>Party accent sample</title><desc>Party table accessories illustration</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff0f6"/><stop offset="1" stop-color="#fff8ce"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="15" stdDeviation="15" flood-color="#914170" flood-opacity=".19"/></filter>
+</defs>
+<rect width="900" height="650" rx="48" fill="url(#bg)"/>
+<ellipse cx="452" cy="562" rx="333" ry="42" fill="#e4c5d3" opacity=".43"/>
+<g filter="url(#shadow)">
+ <rect x="174" y="388" width="552" height="107" rx="18" fill="#fff"/>
+ <rect x="202" y="415" width="496" height="19" rx="10" fill="#f7d2e3"/>
+ <rect x="293" y="245" width="112" height="144" rx="18" fill="#f36aa9"/>
+ <rect x="496" y="205" width="115" height="184" rx="20" fill="#67c9c5"/>
+ <circle cx="349" cy="216" r="54" fill="#ffd43d"/>
+ <circle cx="553" cy="168" r="56" fill="#f268aa"/>
+ <path d="M447 324l24-97 24 97z" fill="#fff4b8"/>
+ <circle cx="471" cy="223" r="15" fill="#fff8db"/>
+</g>
+<g>
+  <circle cx="230" cy="258" r="21" fill="#fdc737"/><circle cx="657" cy="276" r="23" fill="#e557bd"/><circle cx="697" cy="212" r="15" fill="#66c7c3"/>
+  <path d="M153 159l8 18 18 8-18 8-8 18-8-18-18-8 18-8z" fill="#ed59a7"/><path d="M735 488l7 16 16 7-16 7-7 16-7-16-16-7 16-7z" fill="#d99a11"/>
+</g>
+</svg>
